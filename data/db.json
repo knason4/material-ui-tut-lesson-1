@@ -29,6 +29,12 @@
       "details": "They are ripping us off, but we have to pay the bill.",
       "category": "reminders",
       "id": 5
+    },
+    {
+      "title": "Create Playlist",
+      "details": "Songs from the 90s",
+      "category": "todos",
+      "id": 6
     }
   ]
 }
